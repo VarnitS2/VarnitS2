@@ -1,4 +1,4 @@
-Software Engineer Intern @ Motorola Solutions
+Software Engineer Intern @ Motorola Solutions \
 CS @ UIUC '23
 
 <!---
