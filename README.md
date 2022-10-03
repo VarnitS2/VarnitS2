@@ -1,7 +1,3 @@
-Software Engineer Intern @ Motorola Solutions \
-CS @ UIUC '23
-
-<!---
-VarnitS2/VarnitS2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently pursuing a B.S. in Computer Science at the University of Illinois at Urbana-Champaign. \
+Passionate about creating software that makes our day-to-day lives simpler. Experienced in full-stack web and app development. \
+Actively looking for 2023 new graduate opportunities in Software Development.
